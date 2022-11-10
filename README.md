@@ -1,2 +1,2 @@
-# resume_app
+# Resume Application
 Resume App using Vue and Nodejs
